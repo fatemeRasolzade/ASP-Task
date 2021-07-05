@@ -108,6 +108,7 @@ nav{
   }
   .wrapper .nav-links{
     display: inline-flex;
+    align-items: baseline;
   }
   li{
     list-style: none;
